@@ -5,7 +5,7 @@ Bischof
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |  16.08.2023 | - | An diesem Tag habe ich mich wieder mit C# auseinander gesetzt und die Planung erstellt.  |
-|       | ...     |                                                              |
+|  23.08.2023 | 0.0.1 | Ich habe angefangen mit dem Programm und konnte den grössten Teil erledigen.         |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -69,10 +69,15 @@ Ich bleibe bei meinen aktuellen Plan und versuche die Anforderungen umzusetzen.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A | 23.08 | Gabriel Bischof | 10  min  |   5 min  |
+| 2.A  | 23.08 | Gabriel Bischof |  15 min |   5 min  |
+| 3.A  | 23.08 | Gabriel Bischof |  60 min |   70 min  |
+| 4.A  | 23.08 | Gabriel Bischof |  15 min |   15 min  |
+| 5.A  | 23.08 | Gabriel Bischof |  15 min |   15 min  |
+| 6.A  | 23.08 | Gabriel Bischof |  10 min |   5 min  |
+| 7.A  | 23.08 | Gabriel Bischof |  45 min |   60 min  |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
