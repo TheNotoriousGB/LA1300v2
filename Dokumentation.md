@@ -83,13 +83,17 @@ Ich bleibe bei meinen aktuellen Plan und versuche die Anforderungen umzusetzen.
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| TC-№ | Datum | Resultat | 
+| ---- | ----- | -------- |
+| 1.1  | 30.08 | OK       |        
+| 1.2  | 30.08 | OK       | 
+| 1.3  | 30.08 | OK       |        
+| 2.1  | 30.08 | OK       | 
+| 3.1  | 30.08 | OK       |        
+| 4.1  | 30.08 | OK       | 
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+Alle Test sind positiv verlaufen. Ich habe keine Fehler beim Testen entdeckt.
+
+
