@@ -1,12 +1,15 @@
 # Projekt-Dokumentation
 
 
-Bischof
+Bischof Gabriel
+
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|  16.08.2023 | - | An diesem Tag habe ich mich wieder mit C# auseinander gesetzt und die Planung erstellt.  |
-|  23.08.2023 | 0.0.1 | Ich habe angefangen mit dem Programm und konnte den grössten Teil erledigen.         |
-|       | 1.0.0   |                                                              |
+|  16.08.2023 | - | An diesem Tag habe ich mich wieder mit C# auseinander gesetzt und die Planung erstellt. |
+|  23.08.2023 | 0.0.1 | Ich habe angefangen mit dem Programm und konnte den grössten Teil erledigen. |
+|  30.08.2023 | 1.0.0 | Mein Programm wurde fertiggestellt und auf Fehler getestet. |
+
+
 
 ## 1 Informieren
 
